@@ -6,3 +6,4 @@ Some random text again
 Some random ramblings
 #### Header 4
 More random ramblings
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
